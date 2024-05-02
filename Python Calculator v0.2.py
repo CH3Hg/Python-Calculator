@@ -1,4 +1,4 @@
-print('==========Python Calculator v0.1==========')
+print('==========Python Calculator v0.2==========')
 print('by CH3Hg')
 while True:
     try:
